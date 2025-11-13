@@ -28,7 +28,7 @@ git push origin main
 4. Choose the branch (usually `main`)
 5. Set the build pack to "Dockerfile"
 6. Configure the following settings:
-   - **Port**: 80
+   - **Port**: 3000
    - **Build Command**: (leave empty, handled by Dockerfile)
    - **Start Command**: (leave empty, handled by Dockerfile)
 
@@ -73,7 +73,7 @@ To enable automatic deployments on push:
 - Verify the Dockerfile syntax
 
 ### Site not loading
-- Check that port 80 is correctly exposed
+- Check that port 3000 is correctly exposed
 - Verify nginx configuration
 - Check Coolify application logs
 
@@ -90,7 +90,7 @@ Test the Docker build locally before deploying:
 docker build -t docs-test .
 
 # Run the container
-docker run -p 8080:80 docs-test
+docker run -p 8080:3000 docs-test
 
 # Visit http://localhost:8080
 ```
