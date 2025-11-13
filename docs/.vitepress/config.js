@@ -1,4 +1,5 @@
 export default {
+  base: '/',
   title: 'Odd Omens Documentation',
   description: 'Documentation for Odd Omens products',
   themeConfig: {
