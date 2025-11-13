@@ -1,0 +1,3 @@
+Odd Omens is a solo-development business started in 2023 with the idea to bring quality products to the market at a low, one time fee. Throughout 2023 into 2025 Odd Omens saw a slight price increase before ultimately making all of its released iOS apps free for life. Following this, Odd Omens created
+
+In 2023 Odd Omens released two apps. Breatheful and Ideaful. In 2024, Afterwards (Product was sunset), Depthful, Fundful, and Meadow.
